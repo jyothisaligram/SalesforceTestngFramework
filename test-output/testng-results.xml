@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="38" total="39" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="70730" started-at="2023-02-20T17:09:12 PST" finished-at="2023-02-20T17:10:23 PST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="70730" started-at="2023-02-20T17:09:12 PST" finished-at="2023-02-20T17:10:23 PST">
+      <class name="com.salesforcetest.salesforceTestCase">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.salesforcetest.salesforceTestCase@53aad5d5]" name="setUp" is-config="true" duration-ms="4320" started-at="2023-02-20T17:09:12 PST" finished-at="2023-02-20T17:09:17 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC_37_Blockingcalenderweeklyrecurrance()[pri:0, instance:com.salesforcetest.salesforceTestCase@53aad5d5]" name="TC_37_Blockingcalenderweeklyrecurrance" duration-ms="65395" started-at="2023-02-20T17:09:17 PST" finished-at="2023-02-20T17:10:22 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_37_Blockingcalenderweeklyrecurrance -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.salesforcetest.salesforceTestCase@53aad5d5]" name="tearDown" is-config="true" duration-ms="939" started-at="2023-02-20T17:10:22 PST" finished-at="2023-02-20T17:10:23 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.salesforcetest.salesforceTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

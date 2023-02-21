@@ -1,0 +1,524 @@
+20230218 01:54:05 WARN  [main] salesforcetest.Log4jTest Log4jTest.java12 - This is a warn message1
+20230218 01:54:05 ERROR [main] salesforcetest.Log4jTest Log4jTest.java13 - This is an error message1
+20230218 01:54:05 FATAL [main] salesforcetest.Log4jTest Log4jTest.java14 - This is a fatal message1
+20230218 15:25:56 ERROR [main] salesforcetest.salesforceTestCase salesforceTestCase.java115 - errormessage
+20230219 11:03:17 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java54 - Navigating to the url
+20230219 11:03:22 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java58 - URL opened successfully
+20230219 11:03:22 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - Starting the test case salesforce TC_2
+20230219 11:03:30 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java101 - username entered 
+20230219 11:03:30 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java104 - username entered in username fieldjan23.jyothi@ta.com
+20230219 11:03:34 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java113 - password entered [[ChromeDriver: chrome on WINDOWS (3434da64ee9fd28e9ed09ac8fda7a340)] -> id: password]
+20230219 11:03:35 ERROR [main] salesforcetest.salesforceTestCase salesforceTestCase.java120 - errormessage
+20230219 11:03:35 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java131 - Test case end
+20230219 11:03:35 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java68 - driver closed
+20230219 16:03:10 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java67 - Navigating to the url
+20230219 16:03:14 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java71 - URL opened successfully
+20230219 16:03:14 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - start of test case salesforce TC_1
+20230219 16:03:14 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java93 - end of test case verifyPageTitleTest
+20230219 16:03:14 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java81 - driver closed
+20230219 16:03:31 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java67 - Navigating to the url
+20230219 16:03:34 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java71 - URL opened successfully
+20230219 16:03:34 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java102 - Starting the test case salesforce TC_2
+20230219 16:03:42 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java114 - username entered 
+20230219 16:03:42 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java117 - username entered in username fieldjan23.jyothi@ta.com
+20230219 16:03:46 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java126 - password entered [[ChromeDriver: chrome on WINDOWS (49692d48b2fcff483d96dc79b6a26354)] -> id: password]
+20230219 16:03:47 ERROR [main] salesforcetest.salesforceTestCase salesforceTestCase.java133 - errormessage
+20230219 16:03:47 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java144 - Test case end
+20230219 16:03:47 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java81 - driver closed
+20230219 16:04:06 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java67 - Navigating to the url
+20230219 16:04:09 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java71 - URL opened successfully
+20230219 16:04:20 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java81 - driver closed
+20230219 16:04:40 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java67 - Navigating to the url
+20230219 16:04:43 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java71 - URL opened successfully
+20230219 16:04:59 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java81 - driver closed
+20230219 16:07:18 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java67 - Navigating to the url
+20230219 16:07:21 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java71 - URL opened successfully
+20230219 16:07:36 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java81 - driver closed
+20230219 16:18:06 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java67 - Navigating to the url
+20230219 16:18:09 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java71 - URL opened successfully
+20230219 16:18:22 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java81 - driver closed
+20230219 16:22:16 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java67 - Navigating to the url
+20230219 16:22:19 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java71 - URL opened successfully
+20230219 16:22:36 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java81 - driver closed
+20230219 16:34:18 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java67 - Navigating to the url
+20230219 16:34:21 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java71 - URL opened successfully
+20230219 16:34:37 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java81 - driver closed
+20230219 16:36:18 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java67 - Navigating to the url
+20230219 16:36:21 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java71 - URL opened successfully
+20230219 16:36:42 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java81 - driver closed
+20230219 16:37:21 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java67 - Navigating to the url
+20230219 16:37:24 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java71 - URL opened successfully
+20230219 16:37:28 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java81 - driver closed
+20230219 17:02:40 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java67 - Navigating to the url
+20230219 17:02:44 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java71 - URL opened successfully
+20230219 17:03:02 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java306 - Starting the test case TC_5_Selectusermenudropdown
+20230219 17:03:03 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java318 - dropdownverify complete
+20230219 17:03:03 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java81 - driver closed
+20230219 20:25:34 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java73 - Navigating to the url
+20230219 20:25:38 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java77 - URL opened successfully
+20230219 20:29:48 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java73 - Navigating to the url
+20230219 20:29:51 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java77 - URL opened successfully
+20230219 20:30:40 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java73 - Navigating to the url
+20230219 20:30:43 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java77 - URL opened successfully
+20230219 20:33:27 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java73 - Navigating to the url
+20230219 20:33:30 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java77 - URL opened successfully
+20230219 20:36:27 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java73 - Navigating to the url
+20230219 20:36:30 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java77 - URL opened successfully
+20230219 20:38:14 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java73 - Navigating to the url
+20230219 20:38:16 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java77 - URL opened successfully
+20230219 20:42:08 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java73 - Navigating to the url
+20230219 20:42:11 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java77 - URL opened successfully
+20230219 20:42:33 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java87 - driver closed
+20230219 21:12:08 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java73 - Navigating to the url
+20230219 21:12:11 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java77 - URL opened successfully
+20230219 21:12:26 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java87 - driver closed
+20230219 21:19:30 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java73 - Navigating to the url
+20230219 21:19:33 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java77 - URL opened successfully
+20230219 21:19:50 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java87 - driver closed
+20230219 21:21:48 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java73 - Navigating to the url
+20230219 21:21:51 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java77 - URL opened successfully
+20230219 21:22:11 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java87 - driver closed
+20230219 21:29:26 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java73 - Navigating to the url
+20230219 21:29:30 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java77 - URL opened successfully
+20230219 21:30:01 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java87 - driver closed
+20230220 06:59:52 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 07:00:09 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 07:00:09 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java352 - Starting the test case salesforce TC_4
+20230220 07:00:10 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java362 - username entered
+20230220 07:00:12 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 07:06:30 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 07:06:35 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 07:06:35 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java338 - Starting the test case salesforce TC_4
+20230220 07:06:35 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java348 - username entered
+20230220 07:06:37 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java354 - Password entered
+20230220 07:06:49 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java359 - login button clicked
+20230220 07:06:49 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 07:09:54 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 07:10:02 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 07:10:02 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 07:10:43 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java391 - Starting the test case TC_5_Selectusermenudropdown
+20230220 07:10:43 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java403 - dropdownverify complete
+20230220 07:10:43 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 07:43:52 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 07:44:01 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 07:44:01 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java359 - Starting the test case salesforce TC_4
+20230220 07:44:02 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java371 - username entered
+20230220 07:44:04 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java377 - Password entered
+20230220 07:44:16 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java384 - login button clicked
+20230220 07:44:16 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 07:50:23 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 07:50:27 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 07:50:27 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java359 - Starting the test case salesforce TC_4
+20230220 07:50:27 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java371 - username entered
+20230220 07:50:29 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java377 - Password entered
+20230220 07:50:29 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java384 - login button clicked
+20230220 07:50:44 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 07:52:16 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 07:52:26 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 07:52:26 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 07:53:10 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 07:57:39 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 07:57:48 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 07:57:48 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 07:59:09 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 08:06:02 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 08:06:13 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 08:06:13 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 08:07:10 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 08:12:25 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 08:12:43 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 08:12:43 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 08:13:04 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 08:14:45 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 08:14:48 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 08:14:48 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 08:16:20 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 08:21:52 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 08:21:55 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 08:21:55 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 08:23:28 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 08:24:59 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 08:25:01 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 08:25:01 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 08:26:33 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 08:28:41 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 08:28:44 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 08:28:44 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 08:30:23 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 08:32:37 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 08:32:40 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 08:32:40 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 08:33:15 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 08:39:19 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 08:39:21 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 08:39:22 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 08:40:00 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 08:44:57 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 08:45:00 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 08:45:00 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 08:46:03 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 11:24:42 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 11:24:57 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 11:24:57 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 11:26:54 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 11:45:46 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 11:45:49 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 11:45:49 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 11:46:06 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 11:50:17 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 11:50:19 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 11:50:19 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 11:50:33 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 11:52:06 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 11:52:10 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 11:52:10 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 11:52:56 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:02:41 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:02:45 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:02:45 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:03:30 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:04:00 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:04:03 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:04:03 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:04:25 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:04:43 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:04:46 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:04:46 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:05:01 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:05:19 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:05:21 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:05:21 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:05:42 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:05:55 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:05:58 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:05:58 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:06:26 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:10:35 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:10:38 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:10:38 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:11:09 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:14:33 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:14:37 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:14:37 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:15:12 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:16:11 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:16:15 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:16:15 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:16:45 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:17:06 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:17:09 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:17:09 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:17:42 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:18:03 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:18:06 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:18:06 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:18:35 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:19:10 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:19:13 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:19:13 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:19:32 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:19:44 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:19:47 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:19:47 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:20:09 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:20:25 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:20:28 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:20:28 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:20:48 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:21:01 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:21:04 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:21:04 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:21:22 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:21:36 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:21:39 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:21:39 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:21:57 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:22:08 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:22:11 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:22:11 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:22:31 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:23:56 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:23:59 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:23:59 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:24:16 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:24:39 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:24:42 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:24:42 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:25:02 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:28:14 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:28:18 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:28:18 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:28:38 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:29:24 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:29:27 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:29:27 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:29:53 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:30:24 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:30:27 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:30:27 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:30:49 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:31:03 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:31:05 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:31:05 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:31:32 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:35:55 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:35:58 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:35:58 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:36:23 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:36:59 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:39:50 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:39:53 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:39:53 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:40:19 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:40:58 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:42:22 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:42:25 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:42:25 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:42:50 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:43:04 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:44:03 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:44:06 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:44:06 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:44:31 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:44:43 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:44:53 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:44:56 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:44:56 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:45:23 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:45:36 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:46:15 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:46:18 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:46:18 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:46:44 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:46:54 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:47:14 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:47:17 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:47:17 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:47:43 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:48:23 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:48:27 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:48:27 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:48:54 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:49:40 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:49:42 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:49:42 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:50:10 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:51:09 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:51:12 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:51:12 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:51:42 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:52:35 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:52:38 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:52:38 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:53:05 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:53:42 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:53:45 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:53:45 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:54:09 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:54:28 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:54:31 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:54:31 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:55:04 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 12:55:15 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 12:55:18 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 12:55:18 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 12:55:47 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 13:02:46 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 13:02:49 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 13:02:49 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 13:03:15 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 13:04:20 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 13:04:23 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 13:04:23 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 13:04:47 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 13:05:14 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 13:05:17 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 13:05:17 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 13:05:37 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 13:05:57 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 13:06:00 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 13:06:00 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 13:06:28 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 13:06:41 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 13:06:44 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 13:06:44 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 13:07:06 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 13:07:18 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 13:07:21 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 13:07:21 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 13:07:50 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 13:08:12 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 13:08:15 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 13:08:15 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 13:08:36 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 13:08:48 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 13:08:51 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 13:08:51 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 13:09:22 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 13:09:34 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 13:09:37 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 13:09:37 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 13:09:55 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 13:10:43 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 13:10:45 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 13:10:45 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 13:11:02 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 13:11:25 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 13:11:28 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 13:11:28 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 13:11:51 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 13:12:13 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 13:12:16 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 13:12:16 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 13:12:51 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 13:13:04 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 13:13:07 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 13:13:07 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 13:13:41 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 13:13:51 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 13:14:05 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 13:14:08 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 13:14:08 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 13:14:27 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 13:22:13 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 13:22:16 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 13:22:16 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 13:22:55 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 13:25:54 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 13:25:57 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 13:25:57 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 13:26:14 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 13:27:08 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 13:27:11 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 13:27:11 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 13:27:24 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 13:27:47 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 13:27:50 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 13:27:50 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 13:28:31 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 13:29:50 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 13:29:53 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 13:29:53 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 13:30:40 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 13:36:42 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 13:36:45 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 13:36:45 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 13:37:32 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 13:39:37 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 13:39:40 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 13:39:40 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 13:40:27 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 13:41:54 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 13:41:57 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 13:41:57 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 13:42:47 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 13:44:38 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 13:44:41 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 13:44:41 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 13:45:31 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java1849 - event calender saved
+20230220 13:45:33 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 13:48:40 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 13:48:43 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 13:48:43 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 13:49:42 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java1849 - event calender saved
+20230220 13:49:44 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 13:50:32 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 13:50:35 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 13:50:35 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 13:50:56 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 13:51:32 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 13:51:35 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 13:51:35 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 13:52:27 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java1849 - event calender saved
+20230220 13:52:29 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 14:05:00 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 14:05:03 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 14:05:03 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 14:05:50 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 14:22:31 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 14:22:34 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 14:22:34 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 14:23:28 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java1849 - event calender saved
+20230220 14:23:30 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 14:25:32 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 14:25:35 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 14:25:35 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 14:25:56 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 14:30:02 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 14:30:07 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 14:30:08 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 14:30:58 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java1849 - event calender saved
+20230220 14:31:00 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 15:31:01 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 15:31:05 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 15:31:05 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 15:31:36 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 15:35:49 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 15:35:52 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 15:35:52 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 15:36:44 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 15:49:52 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 15:49:56 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 15:49:56 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 15:50:50 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 15:52:31 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 15:52:34 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 15:52:34 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 15:53:29 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 16:17:16 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 16:17:19 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 16:17:19 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 16:18:28 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 16:30:48 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 16:30:51 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 16:30:51 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 16:31:43 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 16:33:04 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 16:33:08 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 16:33:08 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 16:33:43 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 16:34:14 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 16:34:18 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 16:34:18 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 16:34:54 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 16:39:59 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 16:40:01 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 16:40:01 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 16:41:02 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 16:43:25 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 16:43:28 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 16:43:28 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 16:44:25 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 16:49:11 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 16:49:15 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 16:49:15 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 16:49:40 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 16:52:03 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 16:52:06 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 16:52:06 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 16:52:26 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 16:53:24 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 16:53:27 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 16:53:27 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 16:53:42 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 16:54:45 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 16:54:51 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 16:54:51 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 16:55:20 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 16:55:30 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 16:55:55 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 16:56:00 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 16:56:00 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 16:56:54 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 16:59:07 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 16:59:40 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 16:59:40 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 17:00:13 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 17:00:58 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 17:01:02 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 17:01:02 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 17:02:08 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
+20230220 17:09:13 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java75 - Navigating to the url
+20230220 17:09:17 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java79 - URL opened successfully
+20230220 17:09:17 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java108 - loginToSalesforce is successful
+20230220 17:10:22 INFO  [main] salesforcetest.salesforceTestCase salesforceTestCase.java89 - driver closed
